@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "rita":"*",
-    "speakeasy-nlp":"*",
+    "nlp_compromise":"*",
     "twit":"*"
   }
 }
